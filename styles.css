@@ -144,7 +144,7 @@ left: 5px;
   /* Hero Section */
 .hero-section {
   
-    height: 100vh;
+    height: 400px;
     background-image: url('img/hero-image.jpg'); /* Replace with your game-themed background image */
     background-size: cover;
     background-position: center;
